@@ -1,0 +1,44 @@
+{
+  "players": {
+    "Tiger Woods": {
+      "age": 42,
+      "rank": 21
+    },
+    "Phil Mickelson": {
+      "age": 48,
+      "rank": 17
+    },
+    "Rory McIlroy": {
+      "age": 29,
+      "rank": 8
+    },
+    "Jordan Spieth": {
+      "age": 25,
+      "rank": 6
+    },
+    "Dustin Johnson": {
+      "age": 34,
+      "rank": 1
+    },
+    "Justin Thomas": {
+      "age": 25,
+      "rank": 3
+    },
+    "Rickie Fowler": {
+      "age": 29,
+      "rank": 7
+    },
+    "Brooks Koepka": {
+      "age": 28,
+      "rank": 2
+    },
+    "Bubba Watson": {
+      "age": 39,
+      "rank": 13
+    },
+    "Jason Day": {
+      "age": 30,
+      "rank": 12
+    }
+  }
+}
